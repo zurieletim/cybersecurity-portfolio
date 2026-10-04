@@ -1,0 +1,1 @@
+A collection of my practical IT, networking, and cybersecurity projects, showcasing hands-on experience in systems administration, network configuration and troubleshooting, security monitoring, threat detection, incident analysis, and defensive security.
